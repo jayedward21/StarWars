@@ -1,0 +1,22 @@
+main {
+  padding-top: 100px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 0;
+  height: 100px;
+  background-color: yellow;
+  border-bottom: 1px solid #DDDDDD;
+}
+.box {
+  height: 300px;
+  text-align: center;
+  padding-top: 20px;
+}
